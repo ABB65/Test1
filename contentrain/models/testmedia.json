@@ -1,0 +1,11 @@
+[
+  {
+    "name": "test",
+    "fieldId": "test",
+    "validations": {},
+    "options": {},
+    "componentId": "media",
+    "modelId": "testmedia",
+    "fieldType": "media"
+  }
+]
