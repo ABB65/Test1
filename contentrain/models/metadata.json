@@ -1,0 +1,9 @@
+[
+  {
+    "name": "TestMedia",
+    "modelId": "testmedia",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  }
+]
