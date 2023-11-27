@@ -24,5 +24,18 @@
       },
       "createdAt": "2023-11-27T12:48:31.970Z"
     }
+  },
+  {
+    "path": "public/1701089426855_company-2.png",
+    "mimetype": "image/png",
+    "size": 244663,
+    "meta": {
+      "user": {
+        "name": "Bayhan Bayramoglu",
+        "email": "bayhan@contentrain.io",
+        "avatar": null
+      },
+      "createdAt": "2023-11-27T12:50:28.557Z"
+    }
   }
 ]
