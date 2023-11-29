@@ -7,5 +7,14 @@
     "componentId": "media",
     "modelId": "testmedia",
     "fieldType": "media"
+  },
+  {
+    "name": "title",
+    "fieldId": "title",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "testmedia",
+    "fieldType": "string"
   }
 ]
